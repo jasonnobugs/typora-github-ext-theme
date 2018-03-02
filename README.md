@@ -13,7 +13,7 @@ Open preference panel by `cmd+`, then click **Open Theme Folder:**
 
 ![image](http://theme.typora.io/media/doc/install-theme/Snip20160921_1.png)
 
-##[ Windows/Linux](http://theme.typora.io/doc/Install-Theme/)
+## [Windows/Linux](http://theme.typora.io/doc/Install-Theme/)
 Open preference panel from File → Preference from menubar, then click “Open Theme Folder”:
 
 ![image](http://theme.typora.io/media/doc/install-theme/Snip20160921_2.png)
